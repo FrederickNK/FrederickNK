@@ -1,7 +1,11 @@
 ### Hi there 👋
-"Hello! I'm Frederick Nkwonta , a full stack developer , and I'm ery passionate about programming. I am profiency at serval programming languages that consits of HTML, css, Javascript, java , C# and Python . My mission is to [Your Mission/Goal].
+Hello! I'm Frederick Nkwonta, a passionate full stack developer dedicated to making a positive impact through programming. With expertise in various programming languages including HTML, CSS, JavaScript, Java, C#, and Python, I possess a comprehensive skill set to tackle diverse technical challenges.
+
+My mission is to leverage the power of coding to drive meaningful change in the world. I believe that technology can transform lives, solve complex problems, and enhance user experiences. By combining my technical proficiency with creativity and innovation, I strive to develop robust solutions that make a difference.
 
 🔗  Connect with me
+
+
 
 
 <!--
