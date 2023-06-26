@@ -5,11 +5,11 @@ My mission is to leverage the power of coding to drive meaningful change in the 
 
 🌱 I’m currently learning 
   
-    <ol>
+    
     
     <li> React </li>
     
-    </ol>
+   
   
     
  
