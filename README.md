@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hi, my name is frederick Nkwonta and I am a Full Stack Web Developer
 
 <!--
 **FrederickNK/FrederickNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
