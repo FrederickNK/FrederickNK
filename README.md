@@ -4,13 +4,13 @@ Hello! I'm Frederick Nkwonta, a passionate full stack developer dedicated to mak
 My mission is to leverage the power of coding to drive meaningful change in the world. I believe that technology can transform lives, solve complex problems, and enhance user experiences. By combining my technical proficiency with creativity and innovation, I strive to develop robust solutions that make a difference.
 
 🌱 I’m currently learning 
-  <li>
+  
     <ol>
-    React 
+    <li> React </li>
     </ol>
   
     
-  </li>
+ 
   
 
 
