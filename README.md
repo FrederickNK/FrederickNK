@@ -1,6 +1,9 @@
 ### Hi there 👋
-Hi, my name is frederick Nkwonta and I am a Full Stack Web Developer
+"Hello! I'm Frederick Nkwonta , a full stack developer , and I'm ery passionate about programming. I am profiency at serval programming languages that consits of HTML, css, Javascript, java , C# and Python . My mission is to [Your Mission/Goal].
 
+🔗  Connect with me
+
+gautamkrishnar gautamkrishnar gautamkrishnar 4214976 gautamkrishnar
 <!--
 **FrederickNK/FrederickNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
